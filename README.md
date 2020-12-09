@@ -1,6 +1,9 @@
-### Hi there 👋
+### Welcome to my Git profile 👋
+- 🔭 I’m currently learning Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. 
+🌱  I’m also learning Data Analytics with R.
 
-<!--
+
+<!-- 
 **angelic2511/angelic2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
