@@ -1,6 +1,6 @@
 ### Welcome to my Git profile 👋
-- 🔭 I’m currently learning Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. 
-🌱  I’m also learning Data Analytics with R.
+- 🔭 I took Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. 
+🌱  I also learned Data Analytics with R.
 
 
 <!-- 
